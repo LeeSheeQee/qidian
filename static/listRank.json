@@ -1,0 +1,584 @@
+{
+  "newBook": {
+    "title": "原创风云榜·新书",
+    "img": "http://localhost:8080/static/img/yc1.jpg",
+    "type": "玄幻",
+    "name": "诡秘之主",
+    "author": "爱潜水的乌贼",
+    "rankType": "月票",
+    "ticket": 18452,
+    "books": [
+      {
+        "type": "都市",
+        "name": "我当道士那些年",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": 8548,
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "黎明之剑",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": 7458,
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "沧海商田",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": 7054,
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "蹭出个综艺男神",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": 6842,
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "黑夜玩家",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": 6021,
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "斩龙",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": 5950,
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "海贼之天赋系统",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": 5600,
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "天剑神帝",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": 5521,
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "我的邻居是皇帝",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": 4568,
+        "number": 10
+      }
+    ]
+  },
+  "hotSell": {
+    "title": "24小时热销榜",
+    "img": "http://localhost:8080/static/img/yc2.jpg",
+    "type": "都市",
+    "name": "大王饶命",
+    "author": "会说话的肘子",
+    "ticket": "销量冠军",
+    "rankType": "",
+    "books": [
+      {
+        "type": "都市",
+        "name": "修真聊天群",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": "↑",
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "牧神记",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": "↓",
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "太初",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": "↓",
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "圣墟",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": "↓",
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "赘婿",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": "↑",
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "修炼狂潮",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": "↓",
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "诡秘之主",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": "↓",
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "带着仓库到大明",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": "↑",
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "汉乡",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": "↑",
+        "number": 10
+      }
+    ]
+  },
+  "vip": {
+    "title": "新锐会员周点击榜",
+    "img": "http://localhost:8080/static/img/yc3.jpg",
+    "type": "仙侠",
+    "name": "三寸人间",
+    "author": "耳根",
+    "ticket": 845210,
+    "rankType": "点击",
+    "books": [
+      {
+        "type": "都市",
+        "name": "诡秘之主",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": 8548,
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "这里有妖气",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": 7458,
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "神宠进化",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": 7054,
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "花都巅峰狂少",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": 6842,
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "王者时刻",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": 6021,
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "王者时刻",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": 5950,
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "深渊主宰系统",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": 5600,
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "学霸的黑科技系统",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": 5521,
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "大医凌然",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": 4568,
+        "number": 10
+      }
+    ]
+  },
+  "week": {
+    "title": "周推荐票榜",
+    "img": "http://localhost:8080/static/img/yc3.jpg",
+    "type": "仙侠",
+    "name": "三寸人间",
+    "author": "耳根",
+    "ticket": 845210,
+    "rankType": "推荐票",
+    "books": [
+      {
+        "type": "都市",
+        "name": "诡秘之主",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": 8548,
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "这里有妖气",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": 7458,
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "神宠进化",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": 7054,
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "花都巅峰狂少",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": 6842,
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "王者时刻",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": 6021,
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "王者时刻",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": 5950,
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "深渊主宰系统",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": 5600,
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "学霸的黑科技系统",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": 5521,
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "大医凌然",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": 4568,
+        "number": 10
+      }
+    ]
+  },
+  "authorBook": {
+    "title": "签约作家新书榜",
+    "img": "http://localhost:8080/static/img/yc3.jpg",
+    "type": "仙侠",
+    "name": "三寸人间",
+    "author": "耳根",
+    "ticket": 845210,
+    "rankType": "潜力值",
+    "books": [
+      {
+        "type": "都市",
+        "name": "诡秘之主",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": 8548,
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "这里有妖气",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": 7458,
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "神宠进化",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": 7054,
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "花都巅峰狂少",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": 6842,
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "王者时刻",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": 6021,
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "王者时刻",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": 5950,
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "深渊主宰系统",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": 5600,
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "学霸的黑科技系统",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": 5521,
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "大医凌然",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": 4568,
+        "number": 10
+      }
+    ]
+  },
+  "newAuthor": {
+    "title": "新人·签约新书榜",
+    "img": "http://localhost:8080/static/img/yc1.jpg",
+    "type": "二次元",
+    "name": "漫威之DNF分解大",
+    "author": "落魄的小纯洁",
+    "rankType": "潜力值",
+    "ticket": 286051,
+    "books": [
+      {
+        "type": "都市",
+        "name": "我当道士那些年",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": 8548,
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "黎明之剑",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": 7458,
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "沧海商田",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": 7054,
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "蹭出个综艺男神",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": 6842,
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "黑夜玩家",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": 6021,
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "斩龙",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": 5950,
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "海贼之天赋系统",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": 5600,
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "天剑神帝",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": 5521,
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "我的邻居是皇帝",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": 4568,
+        "number": 10
+      }
+    ]
+  },
+  "finish": {
+    "title": "最近完本",
+    "img": "http://localhost:8080/static/img/yc1.jpg",
+    "type": "玄幻",
+    "msgType": "xuanhuang",
+    "name": "诡秘之主",
+    "author": "爱潜水的乌贼",
+    "rankType": "341万字",
+    "ticket": "8.8分",
+    "books": [
+      {
+        "type": "都市",
+        "name": "我当道士那些年",
+        "author": "半纸情书0",
+        "isHot": true,
+        "ticket": 8548,
+        "number": 2
+      },
+      {
+        "type": "历史",
+        "name": "黎明之剑",
+        "author": "梦未眠",
+        "isHot": false,
+        "ticket": 7458,
+        "number": 3
+      },
+      {
+        "type": "历史",
+        "name": "沧海商田",
+        "author": "半城流烟",
+        "isHot": false,
+        "ticket": 7054,
+        "number": 4
+      },
+      {
+        "type": "二次元",
+        "name": "蹭出个综艺男神",
+        "author": "欢声",
+        "isHot": true,
+        "ticket": 6842,
+        "number": 5
+      },
+      {
+        "type": "游戏",
+        "name": "黑夜玩家",
+        "author": "无量摩诃",
+        "isHot": true,
+        "ticket": 6021,
+        "number": 6
+      },
+      {
+        "type": "仙侠",
+        "name": "斩龙",
+        "author": "古剑锋",
+        "isHot": false,
+        "ticket": 5950,
+        "number": 7
+      },
+      {
+        "type": "都市",
+        "name": "海贼之天赋系统",
+        "author": "五彩贝壳",
+        "isHot": false,
+        "ticket": 5600,
+        "number": 8
+      },
+      {
+        "type": "仙侠",
+        "name": "天剑神帝",
+        "author": "饮尽风雪千杯",
+        "isHot": false,
+        "ticket": 5521,
+        "number": 9
+      },
+      {
+        "type": "科幻",
+        "name": "我的邻居是皇帝",
+        "author": "九霄天歌",
+        "isHot": false,
+        "ticket": 4568,
+        "number": 10
+      }
+    ]
+  }
+}

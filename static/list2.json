@@ -1,0 +1,131 @@
+{
+  "title": "三江·网文新风",
+  "books": [
+    {
+      "type": "都市",
+      "name": "大医凌然",
+      "author": "神医圣手",
+      "isHot": false,
+      "number": 1
+    },
+    {
+      "type": "都市",
+      "name": "写书证道",
+      "author": "神级作者",
+      "isHot": true,
+      "number": 2
+    },
+    {
+      "type": "游戏",
+      "name": "四重分裂",
+      "author": "多人格",
+      "isHot": true,
+      "number": 3
+    },
+    {
+      "type": "仙侠",
+      "name": "正版修仙",
+      "author": "全民进化",
+      "isHot": false,
+      "number": 4
+    },
+    {
+      "type": "都市",
+      "name": "华娱大时代",
+      "author": "爆笑明星",
+      "isHot": false,
+      "number": 5
+    },
+    {
+      "type": "玄幻",
+      "name": "诸天我为帝",
+      "author": "帝穿诸天",
+      "isHot": true,
+      "number": 6
+    },
+    {
+      "type": "仙侠",
+      "name": "王者风暴",
+      "author": "古剑锋",
+      "isHot": false,
+      "number": 7
+    },
+    {
+      "type": "都市",
+      "name": "我从天上来",
+      "author": "天仙重生",
+      "isHot": false,
+      "number": 8
+    },
+    {
+      "type": "仙侠",
+      "name": "天生就会跑",
+      "author": "速度激情",
+      "isHot": false,
+      "number": 9
+    },
+    {
+      "type": "科幻",
+      "name": "养鲲进化",
+      "author": "全民养鲲进化",
+      "isHot": false,
+      "number": 10
+    },
+    {
+      "type": "奇幻",
+      "name": "异世荒野直播",
+      "author": "魔法直播",
+      "isHot": false,
+      "number": 11
+    },
+    {
+      "type": "玄幻",
+      "name": "我真不会推理",
+      "author": "无限惊悚",
+      "isHot": false,
+      "number": 12
+    },
+    {
+      "type": "科幻",
+      "name": "融合次元世界",
+      "author": "降临现实",
+      "isHot": false,
+      "number": 13
+    },
+    {
+      "type": "历史",
+      "name": "战国之军师崛起",
+      "author": "先秦风云",
+      "isHot": false,
+      "number": 14
+    },
+    {
+      "type": "军事",
+      "name": "抗日之铁血战将",
+      "author": "烽火硝烟",
+      "isHot": false,
+      "number": 15
+    },
+    {
+      "type": "二次元",
+      "name": "砂隐之最强技师",
+      "author": "技能转化",
+      "isHot": false,
+      "number": 16
+    },
+    {
+      "type": "科幻",
+      "name": "某美漫的幻想具现",
+      "author": "纵横漫威",
+      "isHot": false,
+      "number": 17
+    },
+    {
+      "type": "页游",
+      "name": "我在女儿国",
+      "author": "广告",
+      "isHot": false,
+      "number": 18
+    }
+  ]
+}

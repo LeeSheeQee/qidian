@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "name": "最强医圣",
+      "author": "左耳思念",
+      "des": "会治病、会算命、会炼药、会摆阵、会炼符…“这个世界上没有我办不到的事情！”——沈风。",
+      "number": 1,
+      "img": "http://localhost:8080/static/img/cs01.jpg"
+    },
+    {
+      "name": "美食供应商",
+      "author": "会做菜的猫",
+      "des": "在遥远的东方，存在着一个数次拒绝了米其林三星评价的奇怪小店。",
+      "number": 2,
+      "img": "http://localhost:8080/static/img/cs02.jpg"
+    },
+    {
+      "name": "君临星空",
+      "author": "风消逝",
+      "des": "现代世界，妖魔滋生，鬼怪肆虐，一个凡人，踏上命运星空之旅。",
+      "number": 3,
+      "img": "http://localhost:8080/static/img/cs03.jpg"
+    },
+    {
+      "name": "超神机械师",
+      "author": "三个云",
+      "des": "重生到游戏公测之前，选择最难的机械师职业，战舰列队，星辰机甲，一人，即是军团！",
+      "number": 4,
+      "img": "http://localhost:8080/static/img/cs04.jpg"
+    },
+    {
+      "name": "三国之熙皇",
+      "author": "思念",
+      "des": "英雄无悔，枭雄无泪，乱世之中，唯有兵戈才能赢得尊严。",
+      "number": 5,
+      "img": "http://localhost:8080/static/img/cs05.jpg"
+    },
+    {
+      "name": "学霸的黑科技系统",
+      "author": "TOMKS",
+      "des": "本系统能让你当上学爸，全人类爸爸的爸，你还要钱有什么用？",
+      "number": 6,
+      "img": "http://localhost:8080/static/img/cs06.jpg"
+    },
+    {
+      "name": "极道天魔",
+      "author": "F550",
+      "des": "手机上的一款游戏修改器，意外成了路胜脑海里的异能。也成了他在这个黑暗乱世唯一的依靠。",
+      "number": 7,
+      "img": "http://localhost:8080/static/img/cs07.jpg"
+    }
+  ]
+}
