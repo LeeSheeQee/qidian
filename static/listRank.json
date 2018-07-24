@@ -3,10 +3,11 @@
     "title": "原创风云榜·新书",
     "img": "http://localhost:8080/static/img/yc1.jpg",
     "type": "玄幻",
-    "name": "诡秘之主",
-    "author": "爱潜水的乌贼",
+    "name": "大医凌然",
+    "author": "志鸟村",
     "rankType": "月票",
     "ticket": 18452,
+    "number": 1,
     "books": [
       {
         "type": "都市",
@@ -580,5 +581,185 @@
         "number": 10
       }
     ]
-  }
+  },
+  "xianxia": [
+    {
+      "type": "现代修真",
+      "name": "我修非常道",
+      "author": "半纸情书0",
+      "isHot": true,
+      "ticket": 8548,
+      "number": 2
+    },
+    {
+      "type": "幻想修仙",
+      "name": "仙道纪元：第一金仙",
+      "author": "梦未眠",
+      "isHot": false,
+      "ticket": 7458,
+      "number": 3
+    },
+    {
+      "type": "神话修真",
+      "name": "洪荒之混乱大道",
+      "author": "半城流烟",
+      "isHot": false,
+      "ticket": 7054,
+      "number": 4
+    },
+    {
+      "type": "神话修真",
+      "name": "如来必须死",
+      "author": "欢声",
+      "isHot": true,
+      "ticket": 6842,
+      "number": 5
+    },
+    {
+      "type": "古典仙侠",
+      "name": "洪荒有鱼",
+      "author": "无量摩诃",
+      "isHot": true,
+      "ticket": 6021,
+      "number": 6
+    },
+    {
+      "type": "现代修真",
+      "name": "城隍当道",
+      "author": "古剑锋",
+      "isHot": false,
+      "ticket": 5950,
+      "number": 7
+    },
+    {
+      "type": "幻想修仙",
+      "name": "金鳞",
+      "author": "五彩贝壳",
+      "isHot": false,
+      "ticket": 5600,
+      "number": 8
+    },
+    {
+      "type": "金鳞",
+      "name": "冥河传承",
+      "author": "饮尽风雪千杯",
+      "isHot": false,
+      "ticket": 5521,
+      "number": 9
+    },
+    {
+      "type": "幻想修仙",
+      "name": "师尊养成系统",
+      "author": "九霄天歌",
+      "isHot": false,
+      "ticket": 4568,
+      "number": 10
+    },
+    {
+      "type": "神话修真",
+      "name": "师尊养成系统",
+      "author": "鬼域之尊",
+      "isHot": false,
+      "ticket": 4568,
+      "number": 10
+    }
+  ],
+  "fans": [
+    {
+      "rank": 1,
+      "name": "●．桃花＂っ",
+      "exp": 1150000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip":  1
+    },
+    {
+      "rank": 2,
+      "name": "烟灰黯然跌落",
+      "exp": 1000000,
+      "img": "//facepic.qidian.com/qd_face/349573/5815945/50",
+      "vip": 1
+    },
+    {
+      "rank": 3,
+      "name": "蔚若晴天",
+      "exp": 255300,
+      "img": "//facepic.qidian.com/qd_face/349573/271/50",
+      "vip": 1
+    },
+    {
+      "rank": 4,
+      "name": "鹅是老五",
+      "exp": 200000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    },
+    {
+      "rank": 5,
+      "name": "千年祭",
+      "exp": 150000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    },
+    {
+      "rank": 6,
+      "name": "飞翔下巴",
+      "exp": 130000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    },
+    {
+      "rank": 7,
+      "name": "＄散落吧千本樱＄",
+      "exp": 130000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    },
+    {
+      "rank": 8,
+      "name": "丹青醉",
+      "exp": 120000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    },
+    {
+      "rank": 9,
+      "name": "宿命࿐",
+      "exp": 115300,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    },
+    {
+      "rank": 10,
+      "name": "沉思ら观书",
+      "exp": 110000,
+      "img": "//facepic.qidian.com/qd_face/349573/5140222/50",
+      "vip": 1
+    }
+  ],
+  "famous": [
+    {
+      "name": "云收雾敛一根烟",
+      "exp": "100000粉丝值",
+      "tag": 1,
+      "img": "//facepic.qidian.com/qd_face/349573/3681327/50"
+    },
+    {
+      "name": "胖胖",
+      "exp": "464投票值",
+      "tag": 2,
+      "img": "//facepic.qidian.com/qd_face/349573/321063/50"
+    },
+    {
+      "name": "暂时空缺",
+      "exp": "首个一次性打赏千万的用户",
+      "tag": 3,
+      "img": "//qidian.gtimg.com/qd/images/ico/user.f22d3.png"
+    },
+    {
+      "name": "hollo2002",
+      "exp": "首个一次性打赏百万的用户",
+      "tag": 4,
+      "img": "//facepic.qidian.com/qd_face/349573/1896521/50"
+    }
+  ]
 }

@@ -81,7 +81,7 @@
 
 
 <style scoped>
-  .fix-nav{width: 100%; height: 42px; background: #3e3d43;  -webkit-box-shadow: 0 2px 6px rgba(0,0,0,.4) ;  -moz-box-shadow: 0 2px 6px rgba(0,0,0,.4);  box-shadow: 0 2px 6px rgba(0,0,0,.4) ;}
+  .fix-nav{width: 100%; height: 42px; background: #3e3d43;  -webkit-box-shadow: 0 2px 6px rgba(0,0,0,.4) ;  -moz-box-shadow: 0 2px 6px rgba(0,0,0,.4);  box-shadow: 0 2px 6px rgba(0,0,0,.4) ; }
   .content{width: 1200px; margin: 0 auto; height: 42px;}
   .content-left{float: left;}
   .content-left>li{float: left; height: 42px; border-top: 2px solid transparent;}

@@ -1,5 +1,5 @@
 <template>
-  <div id="head">
+  <div id="head" v-show="headShow">
     <div class="top">
       <div class="header">
         <div class="all-size">
@@ -135,11 +135,20 @@
         name: 'HomeHeader',
         data() {
           return {
-            isShow: false
+            isShow: false,
+            headShow: true
           }
+        },
+        created() {
+          this.CheckHead();
         },
         watch: {
           '$route' (to, from) {
+
+            let re =new RegExp(/\/book/)
+            if(re.test(to)) {
+              this.headShow = false;
+            }
             if( to === '/') {
               this.isShow = false;
             }else {
@@ -149,11 +158,21 @@
         },
         mounted() {
          let path = this.$route.path;
+
          if(path === '/') {
            this.isShow = false;
          }else {
            this.isShow = true;
          }
+        },
+        methods: {
+          CheckHead() {
+            let path = this.$route.path;
+            let re =new RegExp(/\/book/)
+            if(re.test(path)) {
+              this.headShow = false;
+            }
+          }
         }
     }
 </script>

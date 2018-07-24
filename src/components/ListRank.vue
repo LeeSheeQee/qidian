@@ -18,7 +18,7 @@
           <span v-if="!(listRank.msgType==='xuanhuang')">NO.1</span>
           <span v-if="listRank.msgType==='xuanhuang'">{{listRank.type}}</span>
         </div>
-        <p class="book-name"><a href="">{{listRank.name}}</a></p>
+        <p class="book-name"><a v-bind:href="'book/msg/'+listRank.number" target="_blank">{{listRank.name}}</a></p>
         <p class="month-tk" v-if="!(listRank.msgType==='xuanhuang')"><span>{{listRank.ticket}}</span>{{listRank.rankType}}</p>
         <p class="month-tk nabook" v-if="(listRank.msgType==='xuanhuang')"><span>{{listRank.ticket}}</span> · {{listRank.rankType}}</p>
         <p class="bottom-box">
@@ -36,7 +36,7 @@
       <li v-for="(book,index) in listRank.books">
         <p class="book-name">
           <span v-bind:class="{'rank-num2':index===0,'rank-num3':index===1,'rank-num4':index>1}">{{index + 2}}</span>
-          <a href="">{{book.name}}</a>
+          <a v-bind:href="'book/'+book.number" target="_blank">{{book.name}}</a>
           <span class="month-tk2">{{book.ticket}}</span>
         </p>
       </li>
@@ -47,7 +47,27 @@
 <script>
     export default {
         name: 'ListRank',
-        props: ['listRank']
+        props: ['listRank'],
+        mounted() {
+
+        },
+        methods: {
+          GetBook() {
+            this.$router.push({
+              path: 'book/info',
+              name: 'BookMsg',
+              target: '_blank',
+              params: {
+                name: 'name',
+                dataObj: 'something'
+              },
+              query: {
+                name: 'nameg',
+                dataObj: 'something'
+              }
+            })
+          }
+        }
     }
 </script>
 
@@ -75,6 +95,7 @@
     -webkit-transform: perspective(74px) rotateX(-70deg) rotateY(-5deg);  -moz-transform: perspective(74px) rotateX(-70deg) rotateY(-5deg);  -ms-transform: scale(0);  transform: perspective(74px) rotateX(-70deg) rotateY(-5deg);  box-shadow: 25px 0 5px 5px #adadad;}
   .book-img>a>img{width: 52px;  height: 87px;}
   .book-name{font-size: 16px;   }
+  .book-name>a{cursor: pointer;}
   .book-name>a:hover{color: #bf2c24;}
   .month-tk{color: #bf2c24; padding-top: 3px; margin-bottom: 4px;}
   .month-tk>span{font-size: 18px;}

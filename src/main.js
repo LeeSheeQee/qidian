@@ -11,10 +11,11 @@ import FontAwesomeIcon from '@fortawesome/vue-fontawesome'
 import solid from '@fortawesome/fontawesome-free-solid'
 import regular from '@fortawesome/fontawesome-free-regular'
 import brands from '@fortawesome/fontawesome-free-brands'
+
 // import 'owl.carousel/dist/assets/owl.carousel.css';
 // import 'owl.carousel';
 
-
+Vue.prototype.mywindow = window
 
 fontawesome.library.add(solid)
 fontawesome.library.add(regular)
